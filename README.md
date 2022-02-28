@@ -6,3 +6,5 @@ This project was made to simulate light emitting from a source and to show how t
 
 To start the program use this command in the terminal:
 ```python renderer.py```
+
+Once started you only need to move your mouse around and watch the light stop on the randomly generated walls!
