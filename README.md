@@ -8,3 +8,5 @@ To start the program use this command in the terminal:
 ```python renderer.py```
 
 Once started you only need to move your mouse around and watch the light stop on the randomly generated walls!
+
+~~ Project inspiration was taken from The Coding Train on Youtube ~~
